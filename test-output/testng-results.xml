@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="6" passed="3" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-30T15:42:20 IST" name="Suite" finished-at="2022-05-30T15:44:09 IST" duration-ms="109306">
+  <suite started-at="2022-06-01T14:38:24 IST" name="Suite" finished-at="2022-06-01T14:40:11 IST" duration-ms="106777">
     <groups>
     </groups>
-    <test started-at="2022-05-30T15:42:20 IST" name="Test" finished-at="2022-05-30T15:44:09 IST" duration-ms="109306">
+    <test started-at="2022-06-01T14:38:24 IST" name="Test" finished-at="2022-06-01T14:40:11 IST" duration-ms="106777">
       <class name="test.AmazonPrimeVideo">
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.AmazonPrimeVideo@a38c7fe]" started-at="2022-05-30T15:43:56 IST" name="SetUpTest" finished-at="2022-05-30T15:44:00 IST" duration-ms="3929" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.AmazonPrimeVideo@51c668e3]" started-at="2022-06-01T14:39:58 IST" name="SetUpTest" finished-at="2022-06-01T14:40:02 IST" duration-ms="3990" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="Amazon()[pri:0, instance:test.AmazonPrimeVideo@a38c7fe]" started-at="2022-05-30T15:44:00 IST" name="Amazon" finished-at="2022-05-30T15:44:03 IST" duration-ms="2998" status="PASS">
+        <test-method signature="Amazon()[pri:0, instance:test.AmazonPrimeVideo@51c668e3]" started-at="2022-06-01T14:40:02 IST" name="Amazon" finished-at="2022-06-01T14:40:05 IST" duration-ms="3013" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Amazon -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.AmazonPrimeVideo@a38c7fe]" started-at="2022-05-30T15:44:09 IST" name="After" finished-at="2022-05-30T15:44:09 IST" duration-ms="252" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.AmazonPrimeVideo@51c668e3]" started-at="2022-06-01T14:40:11 IST" name="After" finished-at="2022-06-01T14:40:11 IST" duration-ms="297" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
       </class> <!-- test.AmazonPrimeVideo -->
       <class name="test.Amazon">
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:20 IST" name="SetUpTest" finished-at="2022-05-30T15:42:26 IST" duration-ms="5522" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:38:24 IST" name="SetUpTest" finished-at="2022-06-01T14:38:29 IST" duration-ms="5166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:26 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-05-30T15:42:29 IST" duration-ms="3393" status="PASS">
+        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:38:29 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-06-01T14:38:33 IST" duration-ms="3281" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,15 +36,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToAmazonPrimeVideo -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:29 IST" name="After" finished-at="2022-05-30T15:42:29 IST" duration-ms="249" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:38:33 IST" name="After" finished-at="2022-06-01T14:38:33 IST" duration-ms="229" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:29 IST" name="SetUpTest" finished-at="2022-05-30T15:42:34 IST" duration-ms="4307" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:38:33 IST" name="SetUpTest" finished-at="2022-06-01T14:38:36 IST" duration-ms="3560" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:34 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-05-30T15:42:59 IST" duration-ms="25480" status="FAIL">
+        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:38:36 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-06-01T14:39:01 IST" duration-ms="24885" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -58,22 +58,22 @@
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [02f7ebbcbd953284a7b48e65aa39376b, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50122}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50122/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 02f7ebbcbd953284a7b48e65aa39376b]]>
+Command: [27fb9303d611103923c67adbb16a35c9, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:58886}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58886/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27fb9303d611103923c67adbb16a35c9]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(.,'Welcome to Prime Video')]"}
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [02f7ebbcbd953284a7b48e65aa39376b, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50122}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50122/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 02f7ebbcbd953284a7b48e65aa39376b
+Command: [27fb9303d611103923c67adbb16a35c9, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:58886}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58886/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 27fb9303d611103923c67adbb16a35c9
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -120,15 +120,15 @@ at java.base/java.lang.Thread.run(Thread.java:833)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToAmazonPrimeVideo -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:59 IST" name="After" finished-at="2022-05-30T15:42:59 IST" duration-ms="246" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:01 IST" name="After" finished-at="2022-06-01T14:39:02 IST" duration-ms="241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:42:59 IST" name="SetUpTest" finished-at="2022-05-30T15:43:04 IST" duration-ms="4626" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:02 IST" name="SetUpTest" finished-at="2022-06-01T14:39:06 IST" duration-ms="4052" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:43:04 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-05-30T15:43:27 IST" duration-ms="22622" status="FAIL">
+        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:06 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-06-01T14:39:29 IST" duration-ms="23746" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -138,26 +138,26 @@ at java.base/java.lang.Thread.run(Thread.java:833)
           </params>
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"TV Shows"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(.,'Welcome to Prime Video')]"}
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [12d1e4e30b433c79e4e93c81663bddfa, findElement {using=link text, value=TV Shows}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50217}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50217/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 12d1e4e30b433c79e4e93c81663bddfa]]>
+Command: [db2d04e94a0b060299e5b6d4aa2af1d0, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:58976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58976/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: db2d04e94a0b060299e5b6d4aa2af1d0]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"TV Shows"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(.,'Welcome to Prime Video')]"}
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [12d1e4e30b433c79e4e93c81663bddfa, findElement {using=link text, value=TV Shows}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50217}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50217/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 12d1e4e30b433c79e4e93c81663bddfa
+Command: [db2d04e94a0b060299e5b6d4aa2af1d0, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:58976}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58976/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: db2d04e94a0b060299e5b6d4aa2af1d0
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -174,7 +174,7 @@ at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(Elemen
 at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:382)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:374)
-at test.Amazon.NavigateToAmazonPrimeVideo(Amazon.java:42)
+at test.Amazon.NavigateToAmazonPrimeVideo(Amazon.java:44)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -204,15 +204,15 @@ at java.base/java.lang.Thread.run(Thread.java:833)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToAmazonPrimeVideo -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:43:27 IST" name="After" finished-at="2022-05-30T15:43:27 IST" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:29 IST" name="After" finished-at="2022-06-01T14:39:30 IST" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:43:27 IST" name="SetUpTest" finished-at="2022-05-30T15:43:31 IST" duration-ms="4429" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:30 IST" name="SetUpTest" finished-at="2022-06-01T14:39:33 IST" duration-ms="3527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:43:31 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-05-30T15:43:55 IST" duration-ms="24178" status="FAIL">
+        <test-method signature="NavigateToAmazonPrimeVideo(java.lang.String)[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:33 IST" name="NavigateToAmazonPrimeVideo" data-provider="dataProvider" finished-at="2022-06-01T14:39:57 IST" duration-ms="24187" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -226,22 +226,22 @@ at java.base/java.lang.Thread.run(Thread.java:833)
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c97d5d456bb5fde7fef032b8c79bfa0f, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50306/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c97d5d456bb5fde7fef032b8c79bfa0f]]>
+Command: [62e5e22a5ae6ed2d1646d082743dadf3, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:59058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59058/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e5e22a5ae6ed2d1646d082743dadf3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(.,'Welcome to Prime Video')]"}
   (Session info: chrome=101.0.4951.67)
 For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
 Build info: version: '4.1.2', revision: '9a5a329c5a'
-System info: host: 'QT-INBG-LT0520', ip: '10.20.50.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+System info: host: 'QT-INBG-LT0520', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [c97d5d456bb5fde7fef032b8c79bfa0f, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:50306}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50306/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c97d5d456bb5fde7fef032b8c79bfa0f
+Command: [62e5e22a5ae6ed2d1646d082743dadf3, findElement {using=xpath, value=//h1[contains(.,'Welcome to Prime Video')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 101.0.4951.67, chrome: {chromedriverVersion: 101.0.4951.41 (93c720db8323..., userDataDir: C:\Users\AMAN~1.MAG\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:59058}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59058/devtoo..., se:cdpVersion: 101.0.4951.67, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 62e5e22a5ae6ed2d1646d082743dadf3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -288,21 +288,21 @@ at java.base/java.lang.Thread.run(Thread.java:833)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToAmazonPrimeVideo -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@12aba8be]" started-at="2022-05-30T15:43:55 IST" name="After" finished-at="2022-05-30T15:43:56 IST" duration-ms="239" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.Amazon@67f639d3]" started-at="2022-06-01T14:39:57 IST" name="After" finished-at="2022-06-01T14:39:58 IST" duration-ms="241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
       </class> <!-- test.Amazon -->
       <class name="test.Searching">
-        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Searching@6fdbe764]" started-at="2022-05-30T15:44:03 IST" name="SetUpTest" finished-at="2022-05-30T15:44:07 IST" duration-ms="4703" status="PASS">
+        <test-method is-config="true" signature="SetUpTest()[pri:0, instance:test.Searching@2e6a8155]" started-at="2022-06-01T14:40:05 IST" name="SetUpTest" finished-at="2022-06-01T14:40:09 IST" duration-ms="3923" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUpTest -->
-        <test-method signature="Amazon()[pri:0, instance:test.Searching@6fdbe764]" started-at="2022-05-30T15:44:07 IST" name="Amazon" finished-at="2022-05-30T15:44:09 IST" duration-ms="1683" status="PASS">
+        <test-method signature="Amazon()[pri:0, instance:test.Searching@2e6a8155]" started-at="2022-06-01T14:40:09 IST" name="Amazon" finished-at="2022-06-01T14:40:11 IST" duration-ms="1956" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Amazon -->
-        <test-method is-config="true" signature="After()[pri:0, instance:test.Searching@6fdbe764]" started-at="2022-05-30T15:44:09 IST" name="After" finished-at="2022-05-30T15:44:09 IST" duration-ms="202" status="PASS">
+        <test-method is-config="true" signature="After()[pri:0, instance:test.Searching@2e6a8155]" started-at="2022-06-01T14:40:11 IST" name="After" finished-at="2022-06-01T14:40:11 IST" duration-ms="179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- After -->
